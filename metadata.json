@@ -1,0 +1,5 @@
+
+{
+  "name": "Chemical Equipment Parameter Visualizer",
+  "description": "A web application to upload and visualize CSV data for chemical equipment parameters. It displays summary statistics, charts, and the raw data table."
+}
